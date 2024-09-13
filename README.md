@@ -1,13 +1,17 @@
 <!--<div align = "center">-->
-<h2> 👋 Hi, I’m Kishan Gupta</h2>
+<div align = "center">
+        <h2> 👋 Hi, I’m Kishan Gupta</h2>
+        
 ➣ 👀 I’m interested in Data Science & AI<br>
-➣ 🌱 I’m currently learning Data Science & AI<br>
-➣ 💞️I’m looking to collaborate on to make use of big data<br> and make useful insights to a company to make it more progressive.<br>
+<img src = "https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif?cid=790b7611otp8gywup974is90y27uv7knp35fv1q6mpylyowf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width =" 210"/><br>
+➣ 🌱 I’m currently learning Data Science & AI, Web Development<br>
+➣ 💞️I’m looking to collaborate on to make use of big data<br> and make useful insights to a company to make it more progressive.<br> </div>
 <h2> 📫 How to reach me ...</h2>
         ➣ 📧 Email: nips2125kishan@gmail.com <br>
         ➣ 💼 LinkedIn: www.linkedin.com/in/dskishangupta<br>
         ➣ 💬 Telegram: Kishan Gupta<br>
         ➣ 🎮 Discord:[ kishangupta0111](https://discord.com/channels/@me/1280418621285470250)<br><hr>
+        </div>
 
 <h2> 😄 Pronouns: ...</h2>
         ➣ He/Him<br>
