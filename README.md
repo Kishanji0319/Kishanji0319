@@ -10,7 +10,7 @@
 
 - 😄 Pronouns: ...<br>
         - He/Him<br>
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...<br>
         - I love coding while listening to music.<br>
         - I love to play Simulation & BattelGround Games.<br>
         - I also love to Watch Sci-fi Movies & Series. <br>
