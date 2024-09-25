@@ -33,8 +33,8 @@ You can click the Preview link to take a look at your changes.
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Kishanji0319&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
+<hr/>
 <br/><br/>
 <h3>Projects Section!!... (UnderDevelopment)</h3>
-<hr/>
+Stay tuned!
 <!-- </div> -->
