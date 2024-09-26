@@ -36,5 +36,5 @@ You can click the Preview link to take a look at your changes.
 <hr/>
 <br/><br/>
 <h3>Projects Section!!... (UnderDevelopment)</h3>
-Stay tuned!
+Stay tuned!  
 <!-- </div> -->
